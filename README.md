@@ -282,6 +282,6 @@ Research code. Use and modify as needed for academic purposes.
 
 ## Contact
 
-**Researcher:** Abhijeet Malviya (abhijeet.malviya@unlv.edu)  
+**Researcher:** Abhijeet Malviya (malvia1@unlv.nevada.edu)  
 **Institution:** UNLV  
 **Last Updated:** 2026-10-13
